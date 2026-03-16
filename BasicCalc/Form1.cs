@@ -6,5 +6,24 @@ namespace BasicCalc
         {
             InitializeComponent();
         }
+
+        private void btnArti_Click(object sender, EventArgs e)
+        {
+             
+        }
+        private void btnEksi_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btnCarpi_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btnBol_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }

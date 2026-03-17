@@ -92,13 +92,11 @@ namespace BasicCalc
         private void txtNumber1_TextChanged(object sender, EventArgs e)
         {
             txtResult.Clear();
-
         }
 
         private void txtNumber2_TextChanged(object sender, EventArgs e)
         {
             txtResult.Clear();
-
         }
     }
 }
